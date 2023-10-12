@@ -2,6 +2,9 @@
 
 Are you looking forward to learn Jenkins right from Zero(installation) to Hero(Build end to end pipelines)? then you are at the right place. 
 
+Youtube video: https://www.youtube.com/watch?v=JGQI5pkK82w
+
+
 ## Installation on EC2 Instance
 
 YouTube Video ->
